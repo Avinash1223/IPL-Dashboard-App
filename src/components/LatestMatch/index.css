@@ -1,0 +1,81 @@
+/* Write your CSS here */
+.match-Container {
+  margin-top: 20px;
+  width: 100%;
+  padding: 50px;
+}
+
+.match-details-container {
+  display: flex;
+  justify-content: space-between;
+  border: 4px solid #f26d22;
+  padding: 20px;
+  background-color: #1e293b;
+}
+
+.heading {
+  font-size: 18px;
+  font-weight: 700;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+
+.team-name {
+  font-size: 22px;
+  font-weight: 500;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+
+.team-logo {
+  height: 200px;
+  width: 200px;
+}
+
+.img-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.date {
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+
+.manofthematch {
+  font-size: 18px;
+  font-weight: 700;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+.umpire {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.Innings-title {
+  font-size: 24px;
+  font-weight: 600;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+
+.venue {
+  font-size: 20px;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+
+.result {
+  font-size: 20px;
+  font-family: 'Bree Serif';
+  color: #ffffff;
+}
+
+.text {
+  color: #ffffff;
+  font-size: 20px;
+}
